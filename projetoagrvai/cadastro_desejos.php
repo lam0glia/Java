@@ -27,5 +27,6 @@
 	else
 		//header('location:lista_desejos.php?msg=eventoErro');
 		echo mysqli_error($connect);
-
+	
+	// Fiz um comentario pelo git kkkj:
 ?>
